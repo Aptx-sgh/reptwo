@@ -23,7 +23,7 @@
       $\color{#30332f}\normalsize{\texttt{i welcom interact.}}$ <br>
       $\color{#706b68}\normalsize{\texttt{i support the LGBTQ+ .}}$ <br>
       $\color{#30332f}\normalsize{\texttt{dni: pedophilia, zoo, incest, negativity, mental problem.}}$ <br>
-      $\color{#706b68}\normalsize{\texttt{dont consider me as spare tire, diedog}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{i love gentle and cheerful, optimistic people.}}$ <br>
       $\color{#30332f}\normalsize{\texttt{i'll tell you stories if you want, feel comfortable.}}$ <br>
     </th>
   </tr>
