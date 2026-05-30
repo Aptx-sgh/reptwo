@@ -24,7 +24,7 @@
       $\color{#706b68}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
       $\color{#30332f}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
       $\color{#706b68}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{#30332f}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{I'll tell you stories if you want, help u feel comfortable.}}$ <br>
     </th>
   </tr>
     </table>
