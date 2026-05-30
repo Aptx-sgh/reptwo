@@ -19,12 +19,12 @@
     <table
   <tr>
     <th>
-      $\color{#706b68}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
-      $\color{#30332f}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
-      $\color{#706b68}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{#30332f}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
-      $\color{#706b68}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{#30332f}\normalsize{\texttt{I'll tell you stories if you want, help u feel comfortable.}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{i'm B, ty for visit my pr5 & nice 2 meet u.}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{i welcom interact.}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{i support the LGBTQ+ .}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{dni:pedophilia,bestiality,incest,negativity,mental problems.}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{dont consider me as spare tire, diedog}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{i'll tell you stories if you want, feel comfortable.}}$ <br>
     </th>
   </tr>
     </table>
