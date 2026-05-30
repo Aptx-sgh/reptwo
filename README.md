@@ -13,20 +13,36 @@
 
 </details>
   <details>
-    <summary>${\textsf{\color{B64963}Abtm⩊}}$</summary>
+    <summary>${\textsf{\color{#c2858c}Abtm⩊}}$</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
 <br>
+    <table
   <tr>
     <th>
-      $\color{fff000}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
-      $\color{b64963}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{FD:mxtx;rbbcr;orange army;aov;helluva;hazbin;disney philes}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
+      $\color{#30332f}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{#706b68}\normalsize{\texttt{FD:mxtx;rbbcr;orange army;aov;helluva;hazbin;disney philes}}$ <br>
     </th>
   </tr>
+    </table>
 <br>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
