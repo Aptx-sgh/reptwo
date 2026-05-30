@@ -11,5 +11,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&weight=500&pause=1000&color=FF006052&center=true&width=435&lines=i+call+that+simply+fucking+lovely;simply+lovely)
 
-
+</details>
+  <details>
+    <summary>${\textsf{\color{B64963}Abtm⩊}}$</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
+<br>
+  <tr>
+    <th>
+      $\color{fff000}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
+      $\color{b64963}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{FD:mxtx;rbbcr;orange army;aov;helluva;hazbin;disney philes}}$ <br>
+    </th>
+  </tr>
+<br>
+</details>
 
