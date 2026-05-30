@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ʰʸ, ᵗʸ ᶠ ᵛˢᵗ ᵐʸ ʳᵖ °ᡣ𐭩 . ° .
 
 <img width="1440" src="https://github.com/user-attachments/assets/931a8026-839e-4626-a817-53dd2f542926" />
-<img width="500" src="https://github.com/user-attachments/assets/fe423d43-9828-4c5f-813e-e8a9cc393e00" align="right"/>
+<img width="380" src="https://github.com/user-attachments/assets/fe423d43-9828-4c5f-813e-e8a9cc393e00" align="right"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&weight=500&pause=1000&color=FF006052&center=true&width=435&lines=i+call+that+simply+fucking+lovely;simply+lovely)
 
