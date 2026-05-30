@@ -11,13 +11,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&weight=500&pause=1000&color=FF006052&center=true&width=435&lines=i+call+that+simply+fucking+lovely;simply+lovely)
 
-</details>
+
   <details>
     <summary>${\textsf{\color{#c2858c}Abm⩊}}$</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
 <br>
-    <table
-  <tr>
+    <table>
+<tr>
     <th>
       $\color{#706b68}\normalsize{\texttt{i'm B, ty for visit my pr5, nice 2 meet u.}}$ <br>
       $\color{#30332f}\normalsize{\texttt{i welcom interact.}}$ <br>
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary>${\textst{color{#706b68}M}}$</summary>
+  <summary>${\textsf{\color{#706b68}M}}$</summary>
   fd: mxtx, rbbcr, tifosi, orange army, 
 </details>
 <img width="420" src="https://github.com/user-attachments/assets/6cdc426d-90c9-4625-8d7e-974c20838ca0" />
