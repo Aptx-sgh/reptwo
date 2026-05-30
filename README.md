@@ -7,13 +7,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ʰʸ, ᵗʸ ᶠ ᵛˢᵗ ᵐʸ ʳᵖ °ᡣ𐭩 . ° .
 
 <img width="1440" src="https://github.com/user-attachments/assets/931a8026-839e-4626-a817-53dd2f542926" />
-<img width="380" src="https://github.com/user-attachments/assets/fe423d43-9828-4c5f-813e-e8a9cc393e00" align="right"/>
+<img width="380" src="https://github.com/user-attachments/assets/fe423d43-9828-4c5f-813e-e8a9cc393e00" align="right"/> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&weight=500&pause=1000&color=FF006052&center=true&width=435&lines=i+call+that+simply+fucking+lovely;simply+lovely)
 
 </details>
   <details>
-    <summary>${\textsf{\color{#c2858c}Abtm⩊}}$</summary>
+    <summary>${\textsf{\color{#c2858c}Abm⩊}}$</summary>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="56" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
 <br>
     <table
@@ -30,10 +30,14 @@
     </table>
 <br>
 </details>
+
+<details>
+  <summary>${\textst{color{#706b68}M}}$</summary>
+  fd: mxtx, rbbcr, tifosi, orange army, 
+</details>
 <img width="420" src="https://github.com/user-attachments/assets/6cdc426d-90c9-4625-8d7e-974c20838ca0" />
 
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geostar&weight=500&duration=80&pause=1000&color=3E3D4695&center=true&vCenter=true&width=300&height=30&lines=max+verstappen" alt="Typing SVG" align="right"/></a>
 
 
 
