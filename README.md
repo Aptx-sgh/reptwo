@@ -9,11 +9,11 @@
 <img width="1440" src="https://github.com/user-attachments/assets/931a8026-839e-4626-a817-53dd2f542926" />
 <img width="380" src="https://github.com/user-attachments/assets/fe423d43-9828-4c5f-813e-e8a9cc393e00" align="right"/> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&weight=500&duration=990&pause=1000&color=8D0B3769&center=true&width=435&lines=i+call+that+simply+f**king+lovely;simply+lovely)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kranky&size=25&duration=1000&pause=1000&color=A73B3B85&center=true&vCenter=true&lines=i+call+that+simply+f**king+lovely;simply+lovely" alt="Typing SVG" /></a>
 
 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="46" height="36" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" /> <img width="76" height="66" src="https://github.com/user-attachments/assets/61d37138-6b5c-4c0e-ad9d-e0f4bf5ef05c" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="46" height="36" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" /> 
 
 <br>
     <table>
@@ -33,8 +33,7 @@
 
 <img width="420" src="https://github.com/user-attachments/assets/6cdc426d-90c9-4625-8d7e-974c20838ca0" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geostar&weight=500&duration=80&pause=1000&color=3E3D4695&center=true&vCenter=true&width=300&height=30&lines=max+verstappen" alt="Typing SVG" align="right"/></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geostar&duration=40&pause=1000&color=14465DB8&width=300&lines=Max+Verstappen" alt="Typing SVG" align="right"/></a>
 
 
 
